@@ -4,7 +4,7 @@ This plugin sends an SMS message using the Signalwire API every time a new post 
 
 ## Requirements
 - Requires an active Signalwire account with a SMS Campaign already set up.
-- ACCOUNT SID, SPACE URL, API AUTH TOKEN, PROJECT ID, FROM NUMBER must be set in plugin settings.
+- ACCOUNT SID, SPACE URL, API AUTH TOKEN, PROJECT ID, FROM NUMBER must be set in plugin settings. You can get this info from your Signalwire account.
 
 ## Installation
 1. Upload the plugin files to the `/wp-content/plugins/signalwire-wp` directory, or add the files to a zip folder and upload via the WordPress plugin uploader.
