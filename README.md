@@ -7,7 +7,7 @@ This plugin sends an SMS message using the Signalwire API every time a new post 
 - ACCOUNT SID, SPACE URL, API AUTH TOKEN, PROJECT ID, FROM NUMBER must be set in plugin settings.
 
 ## Installation
-1. Upload the plugin files to the `/wp-content/plugins/` directory.
+1. Upload the plugin files to the `/wp-content/plugins/signalwire-wp` directory, or add the files to a zip folder and upload via the WordPress plugin uploader.
 2. Activate the plugin through the 'Plugins' screen in WordPress.
 3. Go to the plugin settings page and enter your ACCOUNT SID, SPACE URL, API AUTH TOKEN, PROJECT ID, and FROM NUMBER.
 4. Save the settings and you're good to go!
